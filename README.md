@@ -17,6 +17,8 @@
   </a>
 </p>
 <p align="center">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kaiDev0601&count_private=true&include_all_commits=true&show_icons=true&theme=compact" />
+
   <a href="https://github.com/kaiDev0601/github-readme-stats">
     <img
       height="150"
