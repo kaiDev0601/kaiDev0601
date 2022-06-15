@@ -15,7 +15,7 @@
   <a href="https://github.com/kaiDev0601/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kaiDev0601" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiDev0601&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kaiDev0601&count_private=true&include_all_commits=true&show_icons=true&theme=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiDev0601&count_private=true&include_all_commits=true&show_icons=true&theme=compact" />
 </p>
 
 
